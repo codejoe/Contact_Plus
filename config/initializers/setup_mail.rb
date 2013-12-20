@@ -3,7 +3,7 @@
   :port                 => 587,
   :domain               => "google.com",
   :user_name            => "naufal26.tik",
-  :password             => "s0ldier0fs0uth2",
+  :password             => "XXX",
   :authentication       => "plain",
   :enable_starttls_auto => true
 }
